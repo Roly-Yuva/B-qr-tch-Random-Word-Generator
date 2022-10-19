@@ -1,0 +1,15 @@
+C:\Users\aleda\Böqrîtch Random Word Generator\bin\Debug\net6.0\Böqrîtch Random Word Generator.exe
+C:\Users\aleda\Böqrîtch Random Word Generator\bin\Debug\net6.0\Böqrîtch Random Word Generator.deps.json
+C:\Users\aleda\Böqrîtch Random Word Generator\bin\Debug\net6.0\Böqrîtch Random Word Generator.runtimeconfig.json
+C:\Users\aleda\Böqrîtch Random Word Generator\bin\Debug\net6.0\Böqrîtch Random Word Generator.dll
+C:\Users\aleda\Böqrîtch Random Word Generator\bin\Debug\net6.0\Böqrîtch Random Word Generator.pdb
+C:\Users\aleda\Böqrîtch Random Word Generator\obj\Debug\net6.0\Böqrîtch Random Word Generator.csproj.AssemblyReference.cache
+C:\Users\aleda\Böqrîtch Random Word Generator\obj\Debug\net6.0\Böqrîtch Random Word Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleda\Böqrîtch Random Word Generator\obj\Debug\net6.0\Böqrîtch Random Word Generator.AssemblyInfoInputs.cache
+C:\Users\aleda\Böqrîtch Random Word Generator\obj\Debug\net6.0\Böqrîtch Random Word Generator.AssemblyInfo.cs
+C:\Users\aleda\Böqrîtch Random Word Generator\obj\Debug\net6.0\Böqrîtch Random Word Generator.csproj.CoreCompileInputs.cache
+C:\Users\aleda\Böqrîtch Random Word Generator\obj\Debug\net6.0\Böqrîtch Random Word Generator.dll
+C:\Users\aleda\Böqrîtch Random Word Generator\obj\Debug\net6.0\refint\Böqrîtch Random Word Generator.dll
+C:\Users\aleda\Böqrîtch Random Word Generator\obj\Debug\net6.0\Böqrîtch Random Word Generator.pdb
+C:\Users\aleda\Böqrîtch Random Word Generator\obj\Debug\net6.0\Böqrîtch Random Word Generator.genruntimeconfig.cache
+C:\Users\aleda\Böqrîtch Random Word Generator\obj\Debug\net6.0\ref\Böqrîtch Random Word Generator.dll

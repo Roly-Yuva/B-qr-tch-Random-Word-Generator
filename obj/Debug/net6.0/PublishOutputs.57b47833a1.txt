@@ -1,0 +1,5 @@
+C:\Users\aleda\Böqrîtch Random Word Generator\bin\Debug\net6.0\publish\Böqrîtch Random Word Generator.exe
+C:\Users\aleda\Böqrîtch Random Word Generator\bin\Debug\net6.0\publish\Böqrîtch Random Word Generator.dll
+C:\Users\aleda\Böqrîtch Random Word Generator\bin\Debug\net6.0\publish\Böqrîtch Random Word Generator.deps.json
+C:\Users\aleda\Böqrîtch Random Word Generator\bin\Debug\net6.0\publish\Böqrîtch Random Word Generator.runtimeconfig.json
+C:\Users\aleda\Böqrîtch Random Word Generator\bin\Debug\net6.0\publish\Böqrîtch Random Word Generator.pdb
