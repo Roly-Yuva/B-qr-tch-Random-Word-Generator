@@ -1,4 +1,7 @@
-﻿using System;
+﻿// Created by Roly Yuva
+// (C) 2022
+
+using System;
 
 namespace Böqrîtch_Random_Word_Generator
 {
